@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1551626280 source:c:\users\kaidan alenko\desktop\complex\body.cpp
+	"header.h"
+
+1551626280 c:\users\kaidan alenko\desktop\complex\header.h
+	<iostream>
+	<string.h>
+
+1551626328 source:c:\users\kaidan alenko\desktop\complex\main.cpp
+	"header.h"
+
+1552317756 source:c:\users\kaidan alenko\desktop\study\нно\complex\body.cpp
+	"header.h"
+
+1553454441 c:\users\kaidan alenko\desktop\study\нно\complex\header.h
+	<iostream>
+	<string.h>
+	<cstdlib>
+
+1553457381 source:c:\users\kaidan alenko\desktop\study\нно\complex\main.cpp
+	"header.h"
+
+1553456778 source:c:\users\kaidan alenko\desktop\study\нно\complex\complex.cpp
+	"header.h"
+
